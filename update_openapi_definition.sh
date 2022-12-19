@@ -1,0 +1,1 @@
+curl https://www.thebluealliance.com/swagger/api_v3.json -o api_v3.json
